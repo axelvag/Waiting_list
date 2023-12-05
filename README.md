@@ -20,11 +20,11 @@ The comparison of their time efficiency is carried out
 
 ### Skills mobilized
 
-* Distinguer interface et implémentation.
-* Écrire plusieurs implémentations d’une même structure de données.
-* Spécifier une structure de données par son interface.
-* Distinguer des structures par le jeu des méthodes qui les caractérisent.
-* Choisir une structure de données adaptée à la situation à modéliser
+* Distinguish interface and implementation.
+* Write multiple implementations of the same data structure.
+* Specify a data structure by its interface.
+* Distinguish structures through the use of methods that characterize them.
+* Choose a data structure adapted to the situation to be modeled
 
 Open "01_Sujet de l'activité_S.docx" for more information !
 
